@@ -5,8 +5,6 @@ dist/
 .DS_Store
 .env
 *.log
-coverage/
-coverage/*.json
 .cache/
 build/
 Thumbs.db
