@@ -12,3 +12,5 @@ build/
 Thumbs.db
 *.bak
 *.tmp
+*.sublime-workspace
+*.sublime-project
