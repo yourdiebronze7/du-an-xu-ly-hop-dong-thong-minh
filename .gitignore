@@ -10,3 +10,5 @@ coverage/*.json
 .cache/
 build/
 Thumbs.db
+*.bak
+*.tmp
