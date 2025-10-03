@@ -14,3 +14,5 @@ Thumbs.db
 *.tmp
 *.sublime-workspace
 *.sublime-project
+*.swp
+*.swo
