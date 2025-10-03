@@ -12,3 +12,4 @@ build/
 Thumbs.db
 *.bak
 *.tmp
+coverage/*.log
